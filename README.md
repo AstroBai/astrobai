@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jiachen Bai, my interests are cosmology (LSS, MG, DE) and AI methods for Astronomy.
+
+My email: astrobaijc@gmail.com
+
 <!--
 **AstroBai/astrobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
