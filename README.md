@@ -2,7 +2,7 @@
 
 I'm Jiachen Bai, my interests are cosmology (LSS, MG, DE) and AI methods for Astronomy.
 
-My personal page: astrobai.github.io
+My personal page: [astrobai.github.io](https://astrobai.github.io/)
 
 My email: astrobaijc@gmail.com
 
