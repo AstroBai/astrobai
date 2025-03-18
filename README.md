@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Jiachen Bai, my interests are cosmology (LSS, MG, DE) and AI methods for Astronomy.
+I'm Jiachen Bai, a student studying Astronomy at Beijing Normal University.
 
-My personal page: [astrobai.github.io](https://astrobai.github.io/)
+- 🔭 I’m currently working on cosmology (computational, LSS, MG...).
 
-My email: astrobaijc@gmail.com
+- 👤 My personal page: [astrobai.github.io](https://astrobai.github.io/)
+
+- 📫 My email: astrobaijc@gmail.com
 
 <!--
 **AstroBai/astrobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
