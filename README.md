@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jiachen Bai, a student studying Astronomy at Beijing Normal University.
+I'm Jiachen Bai, a PhD student at the Institute for Astronomy, University of Edinburgh.
 
 - 🔭 I’m currently working on cosmology (computational, LSS, MG...).
 
