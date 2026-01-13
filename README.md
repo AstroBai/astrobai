@@ -2,7 +2,7 @@
 
 I'm Jiachen Bai, a PhD student at the Institute for Astronomy, University of Edinburgh.
 
-- 🔭 I’m currently working on cosmology (computational, LSS, MG...).
+- 🔭 I’m currently working on cosmology.
 
 - 👤 My personal page: [astrobai.github.io](https://astrobai.github.io/)
 
